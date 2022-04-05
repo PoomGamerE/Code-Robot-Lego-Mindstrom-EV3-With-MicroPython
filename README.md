@@ -1,2 +1,2 @@
-# Introduction-To-EV3-With-MicroPython
-Introduction To EV3 With MicroPython เริ่มต้นเขียนโค้ด Lego Mindstorms EV3
+Code-Robot-Lego-Mindstrom-EV3-With-MicroPython
+โค้ดหุ่นยนต์ Lego Mindstrom EV3 ด้วย With MicroPython
